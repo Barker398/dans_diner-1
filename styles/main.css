@@ -1,0 +1,82 @@
+@import url(page.css)
+
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+
+}
+
+h1 {
+
+}
+
+h2 {}
+
+h3 {}
+
+h4 {
+
+}
+
+.blue {
+    background-color: rgb(1, 163, 208);
+}
+
+.nav {
+    display: flex;
+    padding: 10px 20px;
+    align-items: center;
+    flex: 1;
+}
+
+.logo__container {
+/* 
+    min-width: 100px;
+    height: 80px;
+    justify-content: center;
+    /* align-items: center; */
+    /* flex: 1; */ 
+}
+
+.logo {
+    flex: 1;
+    align-self: center;
+    
+}
+
+.nav__links {
+    flex: 1;
+    flex-basis: 30%;
+    justify-content: flex-end;
+    
+}
+
+ul, li {
+    list-style-type: none;
+    padding: 10px;
+    
+}
+
+.nav__links li {
+    padding: 10px;
+    
+}
+
+.header {
+    display: flex;
+}
+
+.header__image {
+    flex-wrap: wrap;
+    flex: 1;
+    width: 100%;
+}
+
+.header__text {}
+
+.main {}
+}
+

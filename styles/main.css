@@ -60,6 +60,12 @@ a {
 a:hover {
     color: rgb(0, 62, 84);
     font-weight: bold;
+.recipes__image {
+    width:20%
+}
+
+.blue {
+    background-color: rgb(1, 163, 208);
 }
 
 .nav {

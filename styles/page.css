@@ -1,9 +1,6 @@
 @import url(main.css);
 
-/* main {
-    
-    font-size: 21px;
-} */
+
 
 main p {
     padding: 0 200px;
@@ -37,7 +34,7 @@ main img {
     padding: 0.1em 120px;
     margin: 0.1em;
     text-align: center;/* Evenly space the child elements */
-    vertical-align: middle;
+    vertical-align: center;
 }
 
 .recipes_detail {

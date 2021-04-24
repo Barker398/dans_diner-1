@@ -3,6 +3,7 @@
 main {
     margin: 1em;
     font-size: 21px;
+    text-align: center
 }
 
 
@@ -26,7 +27,7 @@ header {
     padding: 0.1em;
     margin: 0.1em;
     text-align: center;/* Evenly space the child elements */
-    vertical-align: middle;
+    vertical-align: center;
 }
 
 .recipes_detail {

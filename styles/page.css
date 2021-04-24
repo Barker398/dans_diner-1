@@ -1,3 +1,4 @@
+
 @import url(main.css);
 
 
@@ -62,5 +63,20 @@ img {
     margin-left: auto;
     margin-right: auto ;
     display: block;
+  }
+
+
+li {
+    margin: 0 0 1em 0;
+}
+
+footer {
+    background-color:rgb(7, 53, 45);
+    color:honeydew;
+    display: flex;
+    justify-content: space-around;
+    font-size: smaller;
+    margin: 1 rem;
+    padding: 1.5em;
   }
 
